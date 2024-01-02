@@ -11,7 +11,6 @@ Personal project by @kayleyvu
 ### Segno library 
 **Documentation**: https://segno.readthedocs.io/en/latest/ 
 
-**How to reach me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5)](https://www.linkedin.com/in/kayley-vu/)
 &nbsp;
 [![Email](https://img.shields.io/badge/kayleytvu@gmail.com-red)](mailto:kayleytvu@gmail.com)
