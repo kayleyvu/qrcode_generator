@@ -6,8 +6,10 @@ Personal project by @kayleyvu
 * A user can enter a link for the QR code and choose color, file size, and file name and save to their PC. 
 
 ## Python libraries used 
-### tkinter library
+### Tkinter library
 **Documentation**: https://docs.python.org/3/library/tk.html 
-### segno library 
+### Segno library 
 **Documentation**: https://segno.readthedocs.io/en/latest/ 
+
+
 
